@@ -14,21 +14,21 @@ You can [create an issue to contact XboxDev maintainers](https://github.com/Xbox
 
 We currently provide the following services:
 
-* Discord for communication
-* XboxDevWiki to document research
-* GitHub organization to host tools and files
+* [Discord](https://discord.gg/XUDsBYD) for communication
+* [XboxDevWiki](http://xboxdevwiki.net) to document research
+* [GitHub organization](https://github.com/XboxDev) to host tools and files
 
 
 ## Want to help? Contact us!
 
 Please come chat with us:
 
-* XboxDev on Discord
+* [XboxDev on Discord](https://discord.gg/XUDsBYD)
 
 and for closely related projects:
 
-* #xqemu on Freenode IRC (Webchat)
-* Cxbx-Reloaded on gitter.im
+* [XQEMU](https://xqemu.com): [#xqemu on Freenode IRC](irc://chat.freenode.net/xqemu) ([Webchat](https://webchat.freenode.net/?channels=%23xqemu))
+* [Cxbx-Reloaded](https://cxbx-reloaded.co.uk): [Discord](https://discord.gg/Q8zdmyn)
 
 You'll also get the details for XboxDevWiki account creation on any of these channels.
 
