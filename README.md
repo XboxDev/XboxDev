@@ -32,6 +32,13 @@ and for closely related projects:
 
 You'll also get the details for XboxDevWiki account creation on any of these channels.
 
+### Coding style
+
+The usual rule is: follow the existing code / commit style of whatever you are working on.
+If the previous commits use prefix style: use prefix style.
+If the surrounding code respects 80 column limit: respect it.
+If the surrounding code uses an unusual C style: mimic it.
+
 
 ## Disclaimer
 
