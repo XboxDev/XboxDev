@@ -29,6 +29,7 @@ and for closely related projects:
 
 * [XQEMU](https://xqemu.com): [#xqemu on Freenode IRC](irc://chat.freenode.net/xqemu) ([Webchat](https://webchat.freenode.net/?channels=%23xqemu))
 * [Cxbx-Reloaded](https://cxbx-reloaded.co.uk): [Discord](https://discord.gg/Q8zdmyn)
+* [xemu](https://xemu.app): [Discord](https://discord.gg/ayyjsuM)
 
 You'll also get the details for XboxDevWiki account creation on any of these channels.
 
